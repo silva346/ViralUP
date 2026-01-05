@@ -1,2 +1,2 @@
 # ViralUP
-Loja de seguidores
+Lojinha virtual
